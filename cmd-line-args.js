@@ -4,7 +4,7 @@
 // command example: node script.js -a -d 55 -c 'scan' -b
 
 // Object with options available and types
-const options = {
+const opt = {
     a:false,
     b:false,
     c:{pos:'',val:''},
